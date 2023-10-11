@@ -337,8 +337,8 @@ main {
 }
 
 .info-content {
-  align-items: start;
-  display: inline;
+  flex-wrap: nowrap;
+  display:flex;
 }
 
 /*.info-content .name {*/
