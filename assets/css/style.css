@@ -337,6 +337,7 @@ main {
 }
 
 .info-content {
+  align-items: start;
   display: inline;
 }
 
