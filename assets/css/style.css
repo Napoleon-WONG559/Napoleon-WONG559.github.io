@@ -468,7 +468,7 @@ main {
 }
 
 .navbar-list {
-  display: flex;
+  display: inline;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
