@@ -337,7 +337,7 @@ main {
 }
 
 .info-content {
-  display: flex;
+  display: inline;
 }
 
 /*.info-content .name {*/
