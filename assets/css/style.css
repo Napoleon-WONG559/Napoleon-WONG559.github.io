@@ -336,6 +336,10 @@ main {
   border-radius: 20px;
 }
 
+.info-content {
+  display: flex;
+}
+
 .info-content .name {
   color: var(--white-2);
   font-size: var(--fs-3);
@@ -352,7 +356,6 @@ main {
   width: max-content;
   padding: 3px 12px;
   border-radius: 8px;
-  display: flex;
 }
 
 .info_more-btn {
