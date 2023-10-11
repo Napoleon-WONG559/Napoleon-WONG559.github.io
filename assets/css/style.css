@@ -340,7 +340,8 @@ main {
   display: flex;
 }
 
-.info-content .name {
+/*.info-content .name {*/
+.sidebar-info .name { 
   color: var(--white-2);
   font-size: var(--fs-3);
   font-weight: var(--fw-500);
